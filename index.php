@@ -73,8 +73,8 @@
             <td>
                 <select name="kategori" id="" style="width: 182px">
                     <option value="">Kategori</option>
-                    <option value="Baju">Makanan</option>
-                    <option value="Celana">Minuman</option>
+                    <option value="Makanan">Makanan</option>
+                    <option value="Minuman">Minuman</option>
                     <option value="Sepatu">Sepatu</option>
                 </select>
             </td>
